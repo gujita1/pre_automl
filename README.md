@@ -2,7 +2,8 @@
 ## 1.1 流程参考  
 1. [h2o流程参考](https://h2oai.github.io/tutorials/machine-learning-experiment-scoring-and-analysis-tutorial-financial-focus/#0)
 2. [google: automl-tables](https://cloud.google.com/automl-tables/docs/quickstart)
-3. 谷歌这套，更直观，更"清流"
+3. [r2.ai](https://www.r2.ai/products)
+4. 谷歌这套，更直观，更"清流"
 
 ## 1.2 技术/包参考 
 1. [vue-stepper](https://github.com/PygmySlowLoris/vue-stepper)
