@@ -35,7 +35,7 @@ https://www.cnblogs.com/xiaxuexiaoab/p/8558519.html
 1. [h2o-3](https://github.com/h2oai/h2o-3/)  （庞大，java,scala,分布式）
 2. 不错，4.4k [hyperopt](https://github.com/hyperopt/hyperopt)  
 3. [hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn)  （重复 hyperopt）
-4. ++不错，5.5k，+NAS，并行，微软加持，k8s[nni](https://github.com/Microsoft/nni)  
+4. ++不错，5.5k，+NAS，并行，微软加持，k8s [nni](https://github.com/Microsoft/nni)  
 5. [scikit-optimize](https://github.com/scikit-optimize/scikit-optimize) （有点小，star 1.7K） 
 6. ++不错，6.8k，代码可读性好,并行，遗传算法 [tpot](https://github.com/EpistasisLab/tpot)  
 7. [tune](https://github.com/ray-project/ray/tree/master/python/ray/tune) （有些庞大，主要是针对深度学习） 
@@ -44,6 +44,7 @@ https://www.cnblogs.com/xiaxuexiaoab/p/8558519.html
 10. [automl-gs](https://github.com/minimaxir/automl-gs) （参考设计而已）
 11. [auto_ml](https://github.com/ClimbsRocks/auto_ml) （参考设计而已）
 12. [auto-sklearn](https://github.com/automl/auto-sklearn)
+13. [hyperparameter_hunter](https://github.com/HunterMcGushion/hyperparameter_hunter)
 
 # 参考  
 1. [GitHub：AutoML论文合集](https://github.com/hibayesian/awesome-automl-papers)
