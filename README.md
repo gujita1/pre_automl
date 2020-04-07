@@ -1,11 +1,14 @@
 # 一、front-end 前台相关  
 ## 1.1 流程参考  
 1. [h2o流程参考](https://h2oai.github.io/tutorials/machine-learning-experiment-scoring-and-analysis-tutorial-financial-focus/#0)
-2. 
+2. [google: automl-tables](https://cloud.google.com/automl-tables/docs/quickstart)
+3. 谷歌这套，更直观，更"清流"
+
 ## 1.2 技术/包参考 
 1. [vue-stepper](https://github.com/PygmySlowLoris/vue-stepper)
 2. [vue-stepper-component](https://github.com/adi518/vue-stepper-component)
 3. 
+
 ## 1.3 可视化与前台的交互
 1. 传数据，前台处理展示  
 2. 找python交互库  [比如](https://towardsdatascience.com/how-to-write-web-apps-using-simple-python-for-data-scientists-a227a1a01582)  
@@ -41,10 +44,13 @@ https://www.cnblogs.com/xiaxuexiaoab/p/8558519.html
 7. [tune](https://github.com/ray-project/ray/tree/master/python/ray/tune) （有些庞大，主要是针对深度学习） 
 8. [MLBox](https://github.com/AxeldeRomblay/MLBox)（有点小，star 1K）
 9. ++不错，4.7k，特征工程做得多 [Featuretools](https://github.com/FeatureLabs/featuretools) 
-10. [automl-gs](https://github.com/minimaxir/automl-gs) （参考设计而已）
-11. [auto_ml](https://github.com/ClimbsRocks/auto_ml) （参考设计而已）
+10. [automl-gs](https://github.com/minimaxir/automl-gs) （可参考其设计）
+11. [auto_ml](https://github.com/ClimbsRocks/auto_ml) （可参考其设计）
 12. [auto-sklearn](https://github.com/automl/auto-sklearn)
 13. [hyperparameter_hunter](https://github.com/HunterMcGushion/hyperparameter_hunter)
+
+## 2.5 文档设计
+1. [automl-tables](https://cloud.google.com/automl-tables/docs)
 
 # 参考  
 1. [GitHub：AutoML论文合集](https://github.com/hibayesian/awesome-automl-papers)
@@ -52,4 +58,4 @@ https://www.cnblogs.com/xiaxuexiaoab/p/8558519.html
 3. 公众号 【AutoML前沿】  
 4. 平台：  
 - [h2o](https://www.h2o.ai/)
-- 
+- [automl-tables](https://cloud.google.com/automl-tables)
