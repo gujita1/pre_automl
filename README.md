@@ -1,9 +1,15 @@
 # 一、front-end 前台相关  
 ## 1.1 流程参考  
-1. [h2o流程参考](https://h2oai.github.io/tutorials/machine-learning-experiment-scoring-and-analysis-tutorial-financial-focus/#0)
-2. [google: automl-tables](https://cloud.google.com/automl-tables/docs/quickstart)
+1. ++ [h2o流程参考](https://h2oai.github.io/tutorials/machine-learning-experiment-scoring-and-analysis-tutorial-financial-focus/#0)
+2. ++ [google: automl-tables](https://cloud.google.com/automl-tables/docs/quickstart)
 3. [r2.ai](https://www.r2.ai/products)
-4. 谷歌这套，更直观，更"清流"
+4. ++ [auger.ai](https://auger.ai/)
+5. [comet](https://www.comet.ml/site/)
+6. [datarobot](https://www.datarobot.com/platform/automated-machine-learning/)
+7. [mljar](https://mljar.com/)
+8. [watson-studio](https://www.ibm.com/cloud/watson-studio/autoai)
+9. [sigopt](https://www.ibm.com/cloud/watson-studio/autoai)
+10. [neptune](https://neptune.ai/)
 
 ## 1.2 技术/包参考 
 1. [vue-stepper](https://github.com/PygmySlowLoris/vue-stepper)
@@ -49,9 +55,12 @@ https://www.cnblogs.com/xiaxuexiaoab/p/8558519.html
 11. [auto_ml](https://github.com/ClimbsRocks/auto_ml) （可参考其设计）
 12. [auto-sklearn](https://github.com/automl/auto-sklearn)
 13. [hyperparameter_hunter](https://github.com/HunterMcGushion/hyperparameter_hunter)
+14. neptune-client
+15. sigopt
 
 ## 2.5 文档设计
 1. [automl-tables](https://cloud.google.com/automl-tables/docs)
+2. [sigopt](https://app.sigopt.com/docs)
 
 # 参考  
 1. [GitHub：AutoML论文合集](https://github.com/hibayesian/awesome-automl-papers)
